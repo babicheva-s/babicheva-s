@@ -8,11 +8,11 @@
 
 
 ### 🛠️ Работала с инструментами:
-<img src="https://shields.io" alt="Postman"/>
-<img src="https://shields.io" alt="Figma"/>
-<img src="https://shields.io" alt="Google Sheets"/>
-<img src="https://shields.io" alt="Holst"/>
-<img src="https://shields.io" alt="Chrome DevTools"/>
-<img src="https://shields.io" alt="apiDoc"/>
-<img src="https://shields.io" alt="Charles Proxy"/>
-<img src="https://shields.io" alt="Android Studio"/>
+![Postman](https://badgen.net)
+![Figma](https://badgen.net)
+![Google Sheets](https://badgen.net)
+![Holst](https://badgen.net)
+![Chrome DevTools](https://badgen.net)
+![apiDoc](https://badgen.net)
+![Charles Proxy](https://badgen.net)
+![Android Studio](https://badgen.net)
