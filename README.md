@@ -8,4 +8,11 @@
 
 
 ### 🛠️ Работала с инструментами:
-![Postman](https://shields.io) ![Figma](https://shields.io) ![Google Sheets](https://shields.io) ![Holst](https://shields.io) ![Chrome DevTools](https://shields.io) ![apiDoc](https://shields.io) ![Charles Proxy](https://shields.io) ![Android Studio](https://shields.io)
+![Postman](https://shields.io)
+![Figma](https://shields.io)
+![Google Sheets](https://shields.io)
+![Holst](https://shields.io)
+![Chrome DevTools](https://shields.io)
+![apiDoc](https://shields.io)
+![Charles Proxy](https://shields.io)
+![Android Studio](https://shields.io)
